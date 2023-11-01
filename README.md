@@ -1,4 +1,4 @@
-## Project Documentation: Excel Data Processing
+## Excel Data Processing
 
 ### Introduction
 This project focuses on processing data from an Excel file using Python. The code performs various operations such as extracting information, calculating values, and generating reports based on the data in the Excel file.
